@@ -1,0 +1,48 @@
+body{
+    background: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.hours{
+    position:relative;
+    top: 5px;
+    color:black;
+}
+.battery{
+    position: relative;
+    left: 370px;
+   bottom: 43px;
+}
+button{
+    position: relative;
+    left: 360px;
+    bottom: 46px;
+}
+.first{
+    position: relative;
+    bottom: 45px;
+}
+.second{
+    position: relative;
+    bottom: 30px;
+}
+.chats{
+  position: relative;
+  right: 239px;
+}
+img{
+    border-radius: 50%;
+    max-width: 79px;
+}
+p{
+    position: relative;
+    left: 29%;
+    bottom: 50px;
+    font-size: larger;
+}
+li{
+    list-style: none;
+}
+button{
+    display: contents;
+    justify-content: space-between;
+}
